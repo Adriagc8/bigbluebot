@@ -1,5 +1,5 @@
 {
-  "name": "bigbluebot",
+  "name": "BBBbot",
   "version": "1.4.0",
   "description": "BigBlueButton bots",
   "main": "index.js",
@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "axios": "^0.21.1",
+    "bigbluebot": "^1.4.0",
     "crypto-js": "^4.0.0",
     "dotenv": "^8.2.0",
     "faker": "^5.1.0",
